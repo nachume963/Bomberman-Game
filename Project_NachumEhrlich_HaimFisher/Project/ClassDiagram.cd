@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Object">
+    <Position X="17.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgACIAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicObject">
+    <Position X="11.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAAACAAAAAAAAAAAAAAAAAAAAAEAAABAA=</HashCode>
+      <FileName>DynamicObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robot">
+    <Position X="9" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAgAAAAQAAAACAAEAAACAABAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Robot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticObject">
+    <Position X="21" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StaticObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gift" Collapsed="true">
+    <Position X="21" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Gift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LifeGift">
+    <Position X="19.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>LifeGift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombGift">
+    <Position X="22" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BombGift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bomb">
+    <Position X="16" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAIAAAAAEABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall">
+    <Position X="18" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rock">
+    <Position X="23.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door">
+    <Position X="25.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Door.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBoard">
+    <Position X="14.5" Y="3.75" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAABIAIAAACAAAAAAEAAAAiQAAAAAAA=</HashCode>
+      <FileName>GameBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller">
+    <Position X="8.25" Y="1" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAgCBAQAgAAAAAAIQAAAAAAAACAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="1.5" Y="4.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAABAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewGame">
+    <Position X="1" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exit">
+    <Position X="4.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Exit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Guard">
+    <Position X="13" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Guard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoolGuard">
+    <Position X="11.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoolGuard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartGuard">
+    <Position X="14.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAE=</HashCode>
+      <FileName>SmartGuard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
