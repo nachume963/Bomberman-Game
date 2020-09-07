@@ -1,8 +1,7 @@
 # Bomberman-Game
 Bomberman Game 
 
+my first reall project!
 
-my first relly project!
-
-Bomberman Game it's a simple project in C++ by OOP principles.
+Bomberman Game it's a simple project in C++ folowing by OOP principles.
 all the multimedia created by the SMFL library.
